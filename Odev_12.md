@@ -1,3 +1,6 @@
+_**GENEL TEKRAR**_
+
+__________
 1. film tablosundan 'K' karakteri ile başlayan en uzun ve replacement_cost'u en düşük 4 filmi sıralayınız.
 ```sql
 SELECT title, length, replacement_cost FROM film
